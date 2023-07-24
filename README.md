@@ -1,1 +1,1 @@
-# project-1
+the media query is not properly working 
